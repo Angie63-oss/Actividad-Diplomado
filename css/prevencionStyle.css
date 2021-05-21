@@ -1,0 +1,23 @@
+.row{
+    background-color: rgb(188, 228, 252);
+    text-align: justify;
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: -16px;
+    height: 1200px;
+    align-items: center;
+}
+
+.acordeon{
+    background-color: lightgreen;
+}
+
+.acordeon2{
+    background-color: lightgreen;
+}
+.acordeon3{
+    background-color: lightgreen;
+}
+.color{
+    background-color: rgb(241, 253, 132);
+}
